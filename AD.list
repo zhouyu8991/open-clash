@@ -6,4 +6,6 @@ DOMAIN,googlesyndication.com
 DOMAIN,doubleclick.net
 DOMAIN,googleapis.com
 DOMAIN,doubleclick.net
-DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN,googlesyndication.com
+DOMAIN,ad.doubleclick.net
+DOMAIN,pubads.g.doubleclick.net
